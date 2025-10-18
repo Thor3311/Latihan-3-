@@ -4,7 +4,6 @@
 a = float(input("Masukkan bilangan pertama: "))
 b = float(input("Masukkan bilangan kedua: "))
 c = float(input("Masukkan bilangan ketiga: "))
-d = float(input("Masukkan bilangan keempat:"))
 
 # Menentukan bilangan terbesar
 if a >= b and a >= c:
