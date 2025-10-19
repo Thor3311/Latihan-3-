@@ -1,9 +1,9 @@
 # Program menentukan bilangan terbesar dari tiga bilangan
 
 # Input tiga bilangan dari pengguna
-a = float(input("Masukkan bilangan pertama: "))
-b = float(input("Masukkan bilangan kedua: "))
-c = float(input("Masukkan bilangan ketiga: "))
+a = int(input("Masukkan bilangan pertama: "))
+b = int(input("Masukkan bilangan kedua: "))
+c = int(input("Masukkan bilangan ketiga: "))
 
 # Menentukan bilangan terbesar
 if a >= b and a >= c:
